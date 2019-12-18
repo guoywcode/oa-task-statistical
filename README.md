@@ -12,6 +12,9 @@
 ## 前端代码
 [@smallsunnyfox](https://github.com/smallsunnyfox/oa-task-statistics)
 
+## 启动
+启动需要自己在配置文件中配置数据库地址
+
 ## 详情
 ![用户任务列表](src/main/resources/static/task_list.jpg)
 
