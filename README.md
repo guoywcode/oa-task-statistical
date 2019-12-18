@@ -12,7 +12,7 @@
 ## 前端代码
 [@smallsunnyfox](https://github.com/smallsunnyfox/oa-task-statistics)
 
-##详情
+## 详情
 ![用户任务列表](src/main/resources/static/task_list.jpg)
 
 ![后台管理](src/main/resources/static/admin.jpg)
